@@ -1,0 +1,9 @@
+streamlit==1.31.0
+pandas
+numpy
+plotly
+keplergl==0.3.2
+streamlit-keplergl==0.3.0
+pydeck
+geojson
+python-dateutil
